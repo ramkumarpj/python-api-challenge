@@ -3,7 +3,7 @@
 ## WeatherPy
 
 The weather data is consumed from [OpenWeatherMap API](https://openweathermap.org/api). 
-A sample of 600 cities is selected randomly with following ranges for latitude(-90, 90) and longitude (-180, 180).
+A sample of ~600 cities is randomly selected with following ranges for latitude(-90, 90) and longitude (-180, 180).
 Various scatter plots are drawn to compare the relationship between latitude vs Temparature, Humidity, Cloudiness & Wind Speed
 Various Linear Regression Plots are drawn to compare the weather pattern between Nothern Hemisphere (latitude  > 0) and Southern Hemishpere (latitude >= 0)
 
