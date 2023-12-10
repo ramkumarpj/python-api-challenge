@@ -9,7 +9,7 @@ Various Linear Regression Plots are drawn to compare the weather pattern between
 
 ## VacationPy
 
-The restaurant data is consumed from [Geoapify API](https://apidocs.geoapify.com/).
+The restaurant data is consumed from [Geoapify API](https://apidocs.geoapify.com/).\
 A hotel map is drawn for cities filtered for ideal weather condition (Max temp > 18 and Max Temp < 24 and Wind Speed < 5).
 
 ## Files
