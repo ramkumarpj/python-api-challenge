@@ -46,3 +46,6 @@ A hotel map is drawn for cities filtered for ideal weather condition (Max temp >
 * Click on 'Cell > Run All' to run
 * Open "VacationPy/VacationPy.ipynb" file using Jupyter Notebook
 * Click on 'Cell > Run All' to run
+
+# Disclaimer
+This repo was published for educational purpose only. Copyright 2023 edX Boot Camps LLC. All rights reserved.
